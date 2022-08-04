@@ -1,0 +1,28 @@
+Tempo di risposta
+
+Desktop che Web
+
+Formato cartteri UTF8
+
+
+
+8.2	REQUISITI DI PROCESSO
+8.2.1	RNF5. Requisiti per la “ maintenance”
+Andranno definite delle APIs di riferimento consentire una corretta gestione all’interno di Wiw.
+8.2.2	RNF6. Requisiti di implementazione
+Per evitare la ridondanza dei dati e mantenere la base di dati in stato consistente si utilizzerà
+un’unica base di dati comune.
+Il sistema dovrà dare continuità al servizio offerto con una tolleranza prevista per eventuali
+aggiornamenti o anomalie hardware.
+8.2.3	RNF7. Requisiti sugli Standa
+8.3.2	RNF10. Requisiti Etici
+L’azienda si impegna a rispettare il Software Engineering Code of Ethics: documento che
+specifica un codice etico per l’attività di ingegneria del software approvato da ACM e IEEE.
+8.3.3	RNF11. Requisiti Legislativi
+Il sistema per favorire l’accesso a soggetti disabili agli strumenti informatici dovrà aderire ai
+contenuti della Legge n.4 del 2004 (Legge Stanca)
+Il sistema dovrà inoltre aderire alle raccomandazioni WAI (Web Accessibility Initiative)
+promosse da W3C ri
+riguardanti il favorire l’accesso dei soggetti disabili.
+8.3.4	RNF12. Open Data
+l’infrastruttura potrà consentire una più efficace condivisione dei dati raccolti in termini di disponibilità delle informazioni e delle funzionalità delle interfacce.
