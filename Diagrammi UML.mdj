@@ -12415,6 +12415,38 @@
 											"top": 492,
 											"width": 238.8798828125,
 											"height": 13
+										},
+										{
+											"_type": "ERDColumnView",
+											"_id": "AAAAAAGDWv4to2V/pSk=",
+											"_parent": {
+												"$ref": "AAAAAAGCaPtPX2L+ErI="
+											},
+											"model": {
+												"$ref": "AAAAAAGDWv4tkmV89Oc="
+											},
+											"fillColor": "#91ffec",
+											"font": "Arial;13;0",
+											"left": 573,
+											"top": 507,
+											"width": 238.8798828125,
+											"height": 13
+										},
+										{
+											"_type": "ERDColumnView",
+											"_id": "AAAAAAGDWv9GCmWGNRA=",
+											"_parent": {
+												"$ref": "AAAAAAGCaPtPX2L+ErI="
+											},
+											"model": {
+												"$ref": "AAAAAAGDWv9GAWWD5TA="
+											},
+											"fillColor": "#91ffec",
+											"font": "Arial;13;0",
+											"left": 573,
+											"top": 522,
+											"width": 238.8798828125,
+											"height": 13
 										}
 									],
 									"fillColor": "#91ffec",
@@ -12422,7 +12454,7 @@
 									"left": 568,
 									"top": 367,
 									"width": 248.8798828125,
-									"height": 143
+									"height": 173
 								}
 							],
 							"fillColor": "#91ffec",
@@ -12430,7 +12462,7 @@
 							"left": 568,
 							"top": 344,
 							"width": 248.8798828125,
-							"height": 166,
+							"height": 196,
 							"nameLabel": {
 								"$ref": "AAAAAAGCaPtPX2L9160="
 							},
@@ -14648,6 +14680,26 @@
 								"$ref": "AAAAAAGCaPtPYWNx+F4="
 							},
 							"name": "project_allocation_notes",
+							"type": "string",
+							"length": 0
+						},
+						{
+							"_type": "ERDColumn",
+							"_id": "AAAAAAGDWv4tkmV89Oc=",
+							"_parent": {
+								"$ref": "AAAAAAGCaPtPYWNx+F4="
+							},
+							"name": "phone_number",
+							"type": "string",
+							"length": 0
+						},
+						{
+							"_type": "ERDColumn",
+							"_id": "AAAAAAGDWv9GAWWD5TA=",
+							"_parent": {
+								"$ref": "AAAAAAGCaPtPYWNx+F4="
+							},
+							"name": "mail",
 							"type": "string",
 							"length": 0
 						}
